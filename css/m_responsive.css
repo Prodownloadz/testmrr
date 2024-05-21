@@ -1,0 +1,3638 @@
+@media only screen and (min-width: 1025px) and (max-width: 1199px) {
+
+	.container {
+
+	    width: 98%;
+
+	}
+
+	.navbar-nav > li > a {
+
+		padding-left: 10px;
+
+    	padding-right: 10px;
+
+    	margin: 15px 0;
+
+	}
+
+	.navbar-header {
+
+		width: 42%;
+
+	}
+
+	.navbar .navbar-brand {
+
+		width: 100%;
+
+	}
+
+	.we_helping .intro h3 {
+
+	    font-size: 16px;
+
+	    line-height: 22px;
+
+	    margin-top: 8px;
+
+	}
+
+	.hom_medico_legal_mhgt .hom_legalfacts_block>a {
+
+	    min-height: 330px;
+
+	}
+
+	.hom_medico_legal_mhgt .hom_legalfacts_block h3 {
+
+	    font-size: 17px;
+
+	}
+
+	.hom_medico_faq form input[type="submit"] {
+
+		font-size: 17px;
+
+	}
+
+	.sticky-header .navbar-nav > li > a {
+
+	    padding-left: 10px;
+
+	    padding-right: 10px;
+
+	}
+
+	.chronology_form_bg {
+
+		padding: 15px 20px 15px;
+
+	}
+
+	.chronology_form_bg h3 {
+
+		font-size: 25px;
+
+		margin-bottom: 0;
+
+	}
+
+	.chronology_form_split .form_btnmsg p {
+
+		font-size: 18px;
+
+	}
+
+	.chronology_form_bg input, .chronology_form_bg textarea, .chronology_form_bg select {
+
+		height: 38px;
+
+	}
+
+	.chronology_form_bg textarea {
+
+	    height: 60px;
+
+    	margin-bottom: 5px;
+
+	}
+
+	.chronology_form_bg label {
+
+		font-size: 16px;
+
+		margin-bottom: 2px;
+
+	}
+
+	.useful_links > li a {
+
+		font-size: 14px;
+
+	}
+
+	.ftr_icn i {
+
+		margin-right: 3px;
+
+		width: 30px;
+
+    	height: 30px;
+
+    	line-height: 30px;
+
+	}
+
+	.ftr_txt {
+
+		font-size: 13.5px;
+
+	}
+
+	.copyright-bar {
+
+		font-size: 15px;
+
+	}
+
+	.client-active .slick-arrow {
+
+		left: -250px;
+
+	}
+
+	.client-active .slick-prev {
+
+	    left: -318px;
+
+	}
+
+	.chronology_form_bg input[type="submit"] {
+
+		height: auto;
+
+	}
+
+	.ownjus_bg {
+
+		min-height: 485px;
+
+	}
+
+	.hipaa-area .single-services h3 a {
+
+		font-size: 19px;
+
+	}
+
+	.hipaa-area .single-services {
+
+		min-height: 475px;
+
+	}
+
+	.hitech-area .single-services {
+
+	    min-height: 720px;
+
+	}
+
+	.personalinjury_dealing h2 {
+
+		font-size: 24px;
+
+	}
+
+	.personalinjury_dealing .pi_dealingcontent {
+
+	    padding: 32px 20px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in {
+
+	    padding: 70px 100px;
+
+	}
+
+	.personalinjury_dealing.malpractice_dealing .pi_dealingcontent {
+
+	    padding: 0px;
+
+	}
+
+	.arising_form .pb15 img {
+
+		width: 100%;
+
+	}
+
+	.hom_legalfacts_block p {
+
+		font-size: 14px;
+
+	}
+
+	.basic_claim {
+
+	    padding: 80px 15px 30px;
+
+	}
+
+	.wc_bestpractices .section-title {
+
+	    font-size: 23px;
+
+	}
+
+	.nh_neglect .pi_dealingcontent {
+
+	    padding-top: 0px!important;
+
+	}
+
+	.service_breadcrumb.breadcrumb_wbtn .breadcrumb_bar {
+
+	    top: 16%;
+
+	}
+
+	.request_line p {
+
+		display: contents;
+
+		position: static;
+
+	    top: 0;
+
+	    left: 0;
+
+	    right: 0;
+
+	}
+
+	.request_line {
+
+		padding: 30px 0;
+
+		min-height: 200px;
+
+	}
+
+	.provider_importanc img, .bookmark_importanc img {
+
+		width: 100%;
+
+	}
+
+	.single-services-box {
+
+		min-height: 290px;
+
+	}
+
+	.small_intro {
+
+	    padding: 0px 15px;
+
+	}
+
+	.attorney_trial_nw {
+
+	    padding: 0 15px;
+
+	}
+
+	.ineffective_section {
+
+	    padding: 0px 15px 30px;
+
+	}
+
+	.attorney_trial_nw .ex_item {
+
+		min-height: 230px;
+
+	}
+
+	.realitynew_section .item-block-01 {
+
+		min-height: 270px;
+
+	}
+
+	.we_helping_outline {
+
+		min-height: 210px;
+
+	}
+
+	.we_helping_title {
+
+		font-size: 18px;
+
+    	padding: 20px 20px 0px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body h3 {
+
+		margin: 0px 0px 5px;
+
+		font-size: 16px;
+
+    	line-height: 24px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body ul li {
+
+		font-size: 16px;
+
+		line-height: 24px;
+
+		padding-left: 24px;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+		font-size: 15px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body p {
+
+	    font-size: 16px;
+
+	}
+
+	.register-left img {
+
+		width: 100%;
+
+	}
+
+	.contact100-form {
+
+    	width: 75%;
+
+    	padding: 45px 8px 40px;
+
+    }
+
+    .contact100-more {
+
+    	width: 25%;
+
+    }
+
+    .nw_jus_submit label {
+
+    	font-size: 16px;	
+
+    }
+
+    .nw_jus_submit ul > li {
+
+    	font-size: 15px;
+
+    }
+
+    .contact100-more h3 {
+
+    	line-height: 36px;
+
+    }
+
+    .image-box.style2 .details a {
+
+    	padding: 5px 5px;
+
+    }
+
+    .image-box.style2 .details h4 {
+
+    	margin-bottom: 5px;
+
+    }
+
+    .image-box.style2 .details p {
+
+	    margin-bottom: 5px;
+
+	    font-size: 0.9em;
+
+	    line-height: 20px;
+
+    }
+
+    .image-box.style2 .details {
+
+	    padding: 10px 10px 10px 260px;
+
+	}
+
+}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+	.sticky-header .navbar .navbar-brand {
+
+		width: auto;
+
+	}
+
+	.abt_icn i {
+
+		margin-right: 10px;
+
+	}
+
+	footer .container {
+
+		width: 100%;
+
+    	padding: 0px 10px;
+
+	}
+
+	.useful_links > li a {
+
+		font-size: 14px;
+
+	}
+
+	.ftr_icn i {
+
+		margin-right: 3px;
+
+		width: 30px;
+
+    	height: 30px;
+
+    	line-height: 30px;
+
+	}
+
+	.ftr_txt {
+
+		font-size: 13.5px;
+
+	}
+
+	.copyright-bar {
+
+		font-size: 15px;
+
+	}
+
+	footer .col-md-3.col-sm-6 {
+
+		padding-left: 0px;
+
+	}
+
+	.we_helping .intro h3 {
+
+		font-size: 16px;
+
+		margin-top: 3px;
+
+	}
+
+	.container {
+
+	    width: 98%;
+
+	}
+
+	.hom_medico_legal_mhgt .hom_legalfacts_block>a {
+
+	    min-height: 350px;
+
+	}
+
+	.hom_medico_faq form input[type="submit"] {
+
+		font-size: 17px;
+
+	}
+
+	.client-active .slick-arrow {
+
+		left: -250px;
+
+	}
+
+	.client-active .slick-prev {
+
+	    left: -318px;
+
+	}
+
+	.chronology_form_bg {
+
+		padding: 15px 20px 15px;
+
+	}
+
+	.chronology_form_bg h3 {
+
+		font-size: 25px;
+
+		margin-bottom: 0;
+
+	}
+
+	.chronology_form_split .form_btnmsg p {
+
+		font-size: 18px;
+
+	}
+
+	.chronology_form_bg input, .chronology_form_bg textarea, .chronology_form_bg select {
+
+		height: 38px;
+
+	}
+
+	.chronology_form_bg textarea {
+
+	    height: 60px;
+
+    	margin-bottom: 5px;
+
+	}
+
+	.chronology_form_bg label {
+
+		font-size: 16px;
+
+		margin-bottom: 2px;
+
+	}
+
+	.chronology_form_bg input[type="submit"] {
+
+		height: auto;
+
+	}
+
+	.chronology_form_bg input, .chronology_form_bg textarea, .chronology_form_bg select{
+
+		margin-bottom: 8px;
+
+	}
+
+	.ownjus_bg {
+
+		min-height: 490px;
+
+	}
+
+	.hipaa-area .single-services  {
+
+		min-height: 500px;
+
+	}
+
+	.hitech-area .single-services {
+
+	    min-height: 720px;
+
+	}
+
+	.personalinjury_dealing h2 {
+
+		font-size: 24px;
+
+	}
+
+	.personalinjury_dealing .pi_dealingcontent {
+
+	    padding: 5px 20px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in {
+
+	    padding: 70px 70px;
+
+	}
+
+	.personalinjury_dealing.malpractice_dealing .pi_dealingcontent {
+
+	    padding: 0px;
+
+	}
+
+	.arising_form .pb15 img {
+
+		width: 100%;
+
+	}
+
+	.notmuch_section h3 {
+
+		line-height: 28px;
+
+	}
+
+	.arising_form p {
+
+    	font-size: 14px;
+
+	}
+
+	.basic_claim {
+
+	    padding: 80px 15px 30px;
+
+	}
+
+	.wc_bestpractices .section-title {
+
+	    font-size: 23px;
+
+	}
+
+	.nh_neglect .pi_dealingcontent {
+
+	    padding-top: 0px!important;
+
+	}
+
+	.service_breadcrumb.breadcrumb_wbtn .breadcrumb_bar {
+
+	    top: 16%;
+
+	}
+
+	.request_line p {
+
+		display: contents;
+
+		position: static;
+
+	    top: 0;
+
+	    left: 0;
+
+	    right: 0;
+
+	}
+
+	.request_line {
+
+		padding: 30px 0;
+
+		min-height: 200px;
+
+	}
+
+	.provider_importanc img, .bookmark_importanc img {
+
+		width: 100%;
+
+	}
+
+	.single-services-box {
+
+		min-height: 290px;
+
+	}
+
+	.small_intro {
+
+	    padding: 0px 15px;
+
+	}
+
+	.attorney_trial_nw {
+
+	    padding: 0 15px;
+
+	}
+
+	.ineffective_section {
+
+	    padding: 0px 15px 30px;
+
+	}
+
+	.attorney_trial_nw .ex_item {
+
+		min-height: 230px;
+
+	}
+
+	.realitynew_section .item-block-01 {
+
+		min-height: 270px;
+
+	}
+
+	.nh_neglect .pi_dealingcontent {
+
+	    padding-top: 0px!important;
+
+	}
+
+	/*menu*/
+
+	.navbar-nav > li > a {
+
+	    margin: 8px 0;
+
+	}
+
+	.navbar-nav .open .dropdown-menu a {
+
+	    color: #000;
+
+	}
+
+	.navbar-nav > li > .dropdown-menu > li a {
+
+		color: #000;
+
+	}
+
+	.navbar-nav>li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-nav > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav > li > a.dropdown-toggle:after {
+
+		content:"\f107";
+
+		font-family: FontAwesome;
+
+		color: #000;
+
+		font-size: 17px;
+
+		float: right;
+
+	}
+
+	.dropdown-large {
+
+	    padding: 5px 20px 10px;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+
+	    color: #000;
+
+	    line-height: 25px;
+
+	    font-size: 16px;
+
+    	text-transform: none;
+
+	} 
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu {
+
+		padding: 5px 20px 10px;
+
+	}
+
+	.navbar-nav .open .dropdown-menu > li > a, .navbar-nav .open .dropdown-menu .dropdown-header {
+
+	    padding: 5px 15px 5px 5px;
+
+	}
+
+	.we_helping_outline {
+
+		min-height: 205px;
+
+	}
+
+	.we_helping_title {
+
+		font-size: 18px;
+
+    	padding: 20px 20px 0px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body h3 {
+
+		margin: 0px 0px 5px;
+
+		font-size: 16px;
+
+    	line-height: 24px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body ul li {
+
+		font-size: 16px;
+
+		line-height: 24px;
+
+		padding-left: 24px;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+		font-size: 14px;
+
+	}
+
+	#modal-droprequest .modal-content .modal-body p {
+
+	    font-size: 16px;
+
+	}
+
+	.register-left img {
+
+		width: 100%;
+
+	}
+
+	.submit_cse {
+
+	    margin-top: 27%;
+
+	}
+
+
+
+	.contact100-form {
+
+    	width: 75%;
+
+    	padding: 45px 8px 40px;
+
+    }
+
+    .contact100-more {
+
+    	width: 25%;
+
+    }
+
+    .nw_jus_submit label {
+
+    	font-size: 16px;	
+
+    }
+
+    .nw_jus_submit ul > li {
+
+    	font-size: 14px;
+
+    }
+
+    .contact100-more h3 {
+
+    	line-height: 36px;
+
+    }
+
+    .image-box.style2 .details a {
+
+    	padding: 5px 5px;
+
+    }
+
+    .image-box.style2 .details h4 {
+
+    	margin-bottom: 5px;
+
+    }
+
+    .image-box.style2 .details p {
+
+	    margin-bottom: 5px;
+
+	    font-size: 0.9em;
+
+	    line-height: 20px;
+
+    }
+
+    .image-box.style2 .details {
+
+	    padding: 10px 10px 10px 260px;
+
+	}
+
+	.scrollable-menu {
+
+	    height: auto;
+
+	    max-height: 350px;
+
+	    overflow-x: hidden;
+
+	}
+
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	.sticky-header .navbar .navbar-brand {
+
+		width: auto;
+
+	}
+
+	.container {
+
+	    width: 98%;
+
+	}
+
+	.top_bar .container {
+
+		padding: 0px;
+
+	}
+
+	.top_contact > li a {
+
+		font-size: 14px;
+
+    	padding-right: 10px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 10px;
+
+	}
+
+	.top_uploadlogin {
+
+		float: left;
+
+	}
+
+	.top_uploadlogin > li a {
+
+		padding: 6px 6px;
+
+	    margin: 0px 3px;
+
+	    font-size: 14px;
+
+	}
+
+	.focus_country {
+
+		margin-right: 0;
+
+	}
+
+	.top_bar .col-sm-5 {
+
+		padding-left: 0;
+
+		padding-right: 10px;
+
+	}
+
+	footer.top_ftr_white h3 {
+
+		margin-top: 12px;
+
+	}
+
+	footer.top_ftr {
+
+		padding: 30px 0 20px;
+
+	}
+
+	.chronology_form .col-md-6.col-sm-6.chronology_form_split {
+
+		width: 100%;
+
+	}
+
+	.tagline_servc .box {
+
+		width: 80%;
+
+	}
+
+	.pricing_details table {
+
+		margin-bottom: 25px;
+
+	}
+
+	.pricing_details {
+
+	    padding: 0px 0px 30px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar {
+
+		top: 25%;
+
+	}
+
+	.contact_det_info {
+
+		padding: 20px 5px;
+
+	}
+
+	.contact_det_info p {
+
+	    font-size: 13px;
+
+	}
+
+	.ownjus_bg {
+
+		min-height: 565px;
+
+	}
+
+	.contact_form form {
+
+	    padding: 0px 5%;
+
+	}
+
+	.jus_submit form {
+
+	    padding: 0px 0%;
+
+	}
+
+	.jus_submit label, .pricing_form label {
+
+		font-size: 16px;
+
+	}
+
+	.jus_submit ul > li {
+
+		font-size: 15px;
+
+	}
+
+	.hipaa-area .single-services {
+
+		min-height: 575px;
+
+	}
+
+	.hitech-area .single-services {
+
+	    min-height: 910px;
+
+	}
+
+	.blog_detail .posts .post {
+
+	    margin-bottom: 0;
+
+	}
+
+	.personalinjury_dealing .pi_dealingcontent {
+
+	    padding: 5px 5px;
+
+	}
+
+	.personalinjury_dealing h2 {
+
+	    margin-bottom: 5px;
+
+	    font-size: 20px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in {
+
+	    padding: 70px 30px;
+
+	}
+
+	.pi_case_details .services_content {
+
+	    padding: 8px 5px;
+
+	}
+
+	.notmuch_section h3 {
+
+		line-height: 28px;
+
+	}
+
+	.ns_realitynew_section .item-block-01 {
+
+	    min-height: 250px;
+
+	}
+
+	.basic_claim {
+
+	    padding: 80px 15px 30px;
+
+	}
+
+	.about-right {
+
+	    padding-left: 0;
+
+	}
+
+	.importance_addservice .xs-info-wraper {
+
+	    padding-left: 0;
+
+	}
+
+	.nh_neglect .pi_dealingcontent {
+
+	    padding-top: 0px!important;
+
+	}
+
+	.pl_basis img {
+
+		width: 100%;
+
+	}
+
+	.service_breadcrumb.breadcrumb_wbtn .breadcrumb_bar {
+
+	    top: 12%;
+
+	}
+
+	.service_breadcrumb.breadcrumb_wbtn .breadcrumb_bar .r_quote {
+
+	    margin-top: 16px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		font-size: 24px;
+
+		margin: 0px 0 5px;
+
+	}
+
+	.single-services-box {
+
+		min-height: 290px;
+
+	}
+
+	.request_line_triple p span, .request_line p span {
+
+	    font-size: 24px;
+
+	    line-height: 38px;
+
+	    font-weight: 600;
+
+	}
+
+	.request_line p {
+
+	    display: contents;
+
+	    position: static;
+
+	    top: 0;
+
+	    left: 0;
+
+	    right: 0;
+
+	}
+
+	.request_line {
+
+		min-height: 150px;
+
+		padding: 30px 15px;
+
+	}
+
+	.request_line_triple {
+
+	    min-height: 200px;
+
+	}
+
+	.title_ineffect h2 {
+
+	    padding: 0px 0%;
+
+	}
+
+	.provider_importanc img, .bookmark_importanc img {
+
+		width: 100%;
+
+	}
+
+	.single-services-box {
+
+		padding: 50px 6px 30px;
+
+	}
+
+	.add_service_info h4 {
+
+		line-height: 28px;
+
+	}
+
+	.importance_addservice .section-title {
+
+		font-size: 1.5rem;
+
+		line-height: 32px;
+
+	}
+
+	.width_fix_center img {
+
+		width: 100%;
+
+	}
+
+	.half-overlay::before {
+
+		height: 53%;
+
+	}
+
+	.small_intro {
+
+	    padding: 0px 15px;
+
+	}
+
+	.about-area {
+
+	    padding: 40px 15px 20px;
+
+	}
+
+	.attorney_trial_nw .ex_item {
+
+		min-height: 280px;
+
+	}
+
+	.attorney_trial_nw {
+
+	    padding: 0 15px;
+
+	}
+
+	.ineffective_section {
+
+	    padding: 0px 15px 30px;
+
+	}
+
+	.realitynew_section .item-block-01 {
+
+	    min-height: 295px;
+
+	}
+
+	#modal-droprequest .modal-dialog {
+
+	    width: 97%; 
+
+	}
+
+	#modal-droprequest .modal-header {
+
+	    padding: 10px 15px 20px 10px;
+
+	    display: block;
+
+	    float: none;
+
+	}
+
+	#modal-droprequest .modal-content img {
+
+		padding: 0px 10px;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 22px!important;
+
+	}
+
+	.tp-caption.custom_theme_big {
+
+		font-size: 44px!important;
+
+		top: 15%!important;
+
+	}
+
+	.text_whte_ctr .tp-caption.custom_theme_big {
+
+		top: 30%!important;
+
+	}
+
+	.we_helping .intro h3 {
+
+	    font-size: 13px;
+
+	    line-height: 19px;
+
+	    margin-top: 6px;
+
+	}
+
+	.we_helping .intro .intro-inner {
+
+	    padding: 2px 2px;
+
+	}
+
+	.cta-text h1 {
+
+		font-size: 42px;
+
+	}
+
+	.hom_medico_faq form input[type="submit"] {
+
+		font-size: 16px;
+
+	}
+
+	.hom_medico_legal_mhgt .col-md-4 {
+
+	    width: 50%;
+
+	    float: left;
+
+	}
+
+	/*menu*/
+
+	.navbar-nav > li > a {
+
+	    margin: 8px 0;
+
+	}
+
+	.navbar-nav .open .dropdown-menu a {
+
+	    color: #000;
+
+	}
+
+	.navbar-nav > li > .dropdown-menu > li a {
+
+		color: #000;
+
+	}
+
+	.navbar-nav>li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-nav > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav > li > a.dropdown-toggle:after {
+
+		content:"\f107";
+
+		font-family: FontAwesome;
+
+		color: #000;
+
+		font-size: 17px;
+
+		float: right;
+
+	}
+
+	/*.navbar-default .navbar-nav > li > a.dropdown-toggle[aria-expanded="true"]:after {
+
+		content:"\f106";
+
+		font-family: FontAwesome;
+
+	}*/
+
+	.dropdown-large {
+
+	    padding: 5px 20px 10px;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+
+	    color: #000;
+
+	    line-height: 25px;
+
+	    font-size: 16px;
+
+    	text-transform: none;
+
+	} 
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu {
+
+		padding: 5px 20px 10px;
+
+	}
+
+	.navbar-nav .open .dropdown-menu > li > a, .navbar-nav .open .dropdown-menu .dropdown-header {
+
+	    padding: 5px 15px 5px 5px;
+
+	}
+
+	.we_helping_outline {
+
+		min-height: 240px;
+
+	}
+
+	#modal-droprequest .odal_content {
+
+	    padding: 15px 15px 5px 15px;
+
+	}
+
+	.submit_cse {
+
+	    margin-top: 8%;
+
+	    margin-bottom: 10%;
+
+	}
+
+	.register-left img {
+
+	    margin-top: 2%;
+
+	    margin-bottom: 1%;
+
+	}
+
+	.submit_cse a {
+
+		padding: 2.5% 5%;
+
+	}
+
+	.nw_uploadurcase .ownjus_bg {
+
+		padding: 5% 10% 7%;
+
+	}
+
+	.wrap-contact100 {
+
+    	flex-direction: column-reverse;
+
+    }
+
+    .contact100-more {
+
+    	padding: 60px 0px 65px;
+
+    }
+
+    .contact100-form {
+
+    	padding: 40px 10px 40px;
+
+    }
+
+    .sample_detail {
+
+	    padding-top: 20px;
+
+	    padding-bottom: 30px;
+
+	}
+
+	.image-box.style2 .details p {
+
+		font-size: 16px;
+
+		line-height: 24px;
+
+	}
+
+	.form-v4-content {
+
+		width: 98%;
+
+		margin: 60px 15px;
+
+	}
+
+	.form-v4-content .form-detail {
+
+	    padding: 5px 20px;
+
+	}
+
+	.form-v4-content .form-detail h3 {
+
+		margin: 15px 0 6px;
+
+	}
+
+	.form-v4-content .form-detail input {
+
+		height: 38px;
+
+		margin-bottom: 8px;
+
+	}
+
+	.scrollable-menu {
+
+	    height: auto;
+
+	    max-height: 360px;
+
+	    overflow-x: hidden;
+
+	}
+
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+	.navbar .navbar-brand, 
+
+	.sticky-header .navbar .navbar-brand {
+
+		width: auto;
+
+	}
+
+	footer h3 {
+
+    	padding-top: 15px;
+
+	}
+
+	.sticky-header .navbar, .sticky-header .top_bar {
+
+		display: none;
+
+	}
+
+	.navbar-nav .open .dropdown-menu a {
+
+	    color: #000;
+
+	}
+
+	.dropdown-large {
+
+	    padding: 10px 20px 10px;
+
+	}
+
+	/*.navbar-default .navbar-nav > li.open > a.dropdown-toggle:after {
+
+		content: ">";
+
+		color: #000;
+
+	}*/
+
+	.service_breadcrumb .breadcrumb_bar {
+
+		top: 26%;
+
+	}
+
+	.ownjus_bg {
+
+		min-height: auto;
+
+    	margin-bottom: 30px;
+
+	}
+
+	.contact_fullinfo {
+
+	    padding: 40px 0 10px;
+
+	}
+
+	.two_uploadbtn {
+
+	    padding: 50px 0px 10px;
+
+	}
+
+	.pricing_form input[type="submit"] {
+
+		margin: 5px 0 15px;
+
+	}
+
+	.pricing_details table {
+
+		margin-bottom: 20px;
+
+	}
+
+	.pricing_details {
+
+	    padding: 0px 0px 30px;
+
+	}
+
+	.jus_submit {
+
+		padding: 20px 0px 10px;
+
+	}
+
+	.jus_submit input[type="submit"] {
+
+		margin: 8px 0 15px;
+
+	}
+
+	.jus_submit form {
+
+	    padding: 0px 2%;
+
+	}
+
+	.hipaa-area .single-services {
+
+		min-height: auto;
+
+	}
+
+	.hipaa-area {
+
+		padding: 30px 0 30px;
+
+	}
+
+	.personalinjury_dealing .pi_dealingcontent {
+
+	    padding: 0px 15px 20px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in {
+
+	    padding: 70px 60px; 
+
+	}
+
+	.pi_case_details .services_pic img {
+
+		width: 100%;
+
+	}
+
+	.pi_case_details .services_pic {
+
+		left: 6px;
+
+	}
+
+	.pi_case_details .empty-space {
+
+		height: 20px;
+
+	}
+
+	.pi_case_details .services_content {
+
+	    padding: 25px 0 15px;
+
+	}
+
+	.pi_case_details .about-item, .pi_case_details .about-item ul {
+
+	    margin-bottom: 15px;
+
+	}
+
+	.notmuch_section h3 {
+
+		line-height: 28px;
+
+	}
+
+	.chronology_form_bg {
+
+		padding: 42px 15px 30px;
+
+	}
+
+	.title {
+
+	    margin-bottom: 10px;
+
+	}
+
+	.understanding_tort {
+
+	    padding-bottom: 0px;
+
+	}
+
+	.personalinjury_dealing .pi_dealingcontent.wc_list {
+
+		padding: 0px 0px 20px;
+
+	}
+
+	.importance_addservice .xs-info-wraper {
+
+	    padding-left: 0;
+
+	}
+
+	.nh_neglect_first {
+
+	    padding-top: 20px;
+
+	}
+
+	.nh_neglect {
+
+	    padding-bottom: 0px;
+
+	}
+
+	.pro_typesliability img {
+
+	    width: 100%;
+
+	    margin-bottom: 0;
+
+	}
+
+	.breadcrumb_bar .r_quote {
+
+		display: none;
+
+	}
+
+	.request_line_triple p span {
+
+	    font-size: 25px;
+
+	    line-height: 36px;
+
+	}
+
+	.request_line p span {
+
+		font-size: 25px;
+
+	    line-height: 36px;
+
+	    padding: 30px 15px;
+
+	}
+
+	.request_line p {
+
+		display: contents;
+
+		position: relative;
+
+	    top: 0;
+
+	    left: 0;
+
+	    right: 0;
+
+	}
+
+	.request_line {
+
+		min-height: 150px;
+
+	}
+
+	.tagline_servc .box {
+
+		width: 75%;
+
+	}
+
+	.single-services-box {
+
+		min-height: auto;
+
+		padding: 30px 15px 30px;
+
+	}
+
+	.addservices-area {
+
+		padding-bottom: 25px;
+
+    	padding-top: 30px;
+
+	}
+
+	.add_service_info h4 {
+
+		line-height: 28px;
+
+	}
+
+	.half-overlay::before {
+
+		height: 52%;
+
+	}
+
+	.about-right {
+
+	    padding-left: 0;
+
+	}
+
+	.about-area.best_opinion {
+
+	    padding: 40px 0 10px;
+
+	}
+
+	.about-left:before, .about-left:after {
+
+		display: none;
+
+	}
+
+	.about-left img{
+
+		-webkit-animation: none;
+
+		animation: none;
+
+	}
+
+	.attorney_trial_nw {
+
+	    padding: 0 15px;
+
+	}
+
+	.emo_ineffective .about-item ul {
+
+		margin-left: 15px;
+
+	}
+
+	.small_intro {
+
+		width: 100%;
+
+    	padding: 0px 15px;
+
+	} 
+
+	.small_intro_top .bs-callout-bold {
+
+	    margin: 0px auto 10px;
+
+	}
+
+	.about-area {
+
+	    padding: 40px 0 10px;
+
+	}
+
+	.ns_ineffective {
+
+		padding: 0px 15px;
+
+	}
+
+	.ns_realitynew_section .item-block-01 {
+
+	    min-height: auto;
+
+	}
+
+	.ns_attorney_trial_nw .ex_item {
+
+	    min-height: auto;
+
+	}
+
+	.small_intro .bs-callout-bold h4 {
+
+		line-height: 30px;
+
+	}
+
+	.Home--services .Home--services--service .hover h2, 
+
+	.Home--services .Home--services--service h2 {
+
+		line-height: 24px;
+
+	}
+
+	#modal-droprequest .modal-dialog {
+
+	    width: 97%; 
+
+	}
+
+	#modal-droprequest .modal-header {
+
+	    padding: 10px 15px 20px 10px;
+
+	    display: block;
+
+	    float: none;
+
+	}
+
+	#modal-droprequest .modal-content img {
+
+		padding: 0px 10px;
+
+	}
+
+	.advantages__inner {
+
+		margin: 10px 15px 10px;
+
+	}
+
+	.home_about .padding-box {
+
+	    padding: 30px 15px;
+
+	}
+
+	.we_helping .intro h3 {
+
+		margin-top: 0;
+
+		margin-bottom: 0;
+
+		font-size: 15px;
+
+    	line-height: 18px;
+
+	}
+
+	.hom_medico_legal_mhgt .hom_legalfacts_block>a {
+
+	    min-height: auto;
+
+	}
+
+	.hom_medico_faq .case_faq {
+
+	    padding: 0px 15px;
+
+	}
+
+	.cta-text h1 {
+
+		font-size: 42px;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 20px!important;
+
+	}
+
+	.tp-caption.custom_theme_big {
+
+		font-size: 35px!important;
+
+		top: 14%!important;
+
+	}
+
+	.text_whte_ctr .tp-caption.custom_theme_big {
+
+		top: 28%!important;
+
+	}
+
+	.blog_detail .posts .post {
+
+	    margin-bottom: 0px;
+
+	}
+
+	.side-bar .widget {
+
+	    margin-bottom: 10px;
+
+	}
+
+	/*menu*/
+
+	.navbar-nav > li > a {
+
+	    margin: 8px 0; 
+
+	}
+
+	.navbar-nav .open .dropdown-menu a {
+
+	    color: #000;
+
+	}
+
+	.navbar-nav > li > .dropdown-menu > li a {
+
+		color: #000;
+
+	}
+
+	.navbar-nav>li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-nav > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav > li > a.dropdown-toggle:after {
+
+		content:"\f107";
+
+		font-family: FontAwesome;
+
+		color: #000;
+
+		font-size: 17px;
+
+		float: right;
+
+	}
+
+	.dropdown-large {
+
+	    padding: 5px 20px 10px;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+
+	    color: #000;
+
+	    line-height: 25px;
+
+	    font-size: 16px;
+
+    	text-transform: none;
+
+	} 
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li {
+
+		border-bottom: 1px solid #dfdfdf;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > li:last-child {
+
+		border-bottom: none;
+
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu {
+
+		padding: 5px 20px 10px;
+
+	}
+
+	.navbar-nav .open .dropdown-menu > li > a, .navbar-nav .open .dropdown-menu .dropdown-header {
+
+	    padding: 5px 15px 5px 5px;
+
+	}
+
+	.we_helping_title {
+
+		line-height: 28px;
+
+		padding: 15px 15px 5px;
+
+	}
+
+	.we_helping_split .col-md-8 {
+
+		padding: 0;
+
+	}
+
+	#modal-droprequest .odal_content {
+
+	    padding: 15px 15px 5px 15px;
+
+	}
+
+	.submit_cse {
+
+	    margin-top: 7%;
+
+	    margin-bottom: 8%;
+
+	}
+
+	.register-left img {
+
+	    margin-top: 2%;
+
+	    margin-bottom: 1%;
+
+	}
+
+	.submit_cse a {
+
+		padding: 2.5% 5%;
+
+	}
+
+	.nw_uploadurcase .ownjus_bg {
+
+		padding: 5% 10% 7%;
+
+	}
+
+	.nw_uploadurcase {
+
+		padding: 50px 15px 40px;
+
+	}
+
+	.wrap-contact100 {
+
+    	flex-direction: column-reverse;
+
+    }
+
+    .contact100-more {
+
+    	padding: 60px 0px 65px;
+
+    }
+
+    .contact100-form {
+
+    	padding: 25px 10px 20px;
+
+    }
+
+    .contact100-form {
+
+	    width: 100%;
+
+	    display: block;
+
+	}
+
+	.sample_detail {
+
+	    padding-top: 20px;
+
+	    padding-bottom: 30px;
+
+	}
+
+	.image-box.style2 .details p {
+
+		font-size: 16px;
+
+		line-height: 24px;
+
+	}
+
+	.form-v4-content {
+
+        margin: 180px 20px;
+
+        flex-direction: column;
+
+        -o-flex-direction: column;
+
+        -ms-flex-direction: column;
+
+        -moz-flex-direction: column;
+
+        -webkit-flex-direction: column;
+
+    }
+
+
+
+    .form-v4-content .form-left {
+
+        width: auto;
+
+        border-top-right-radius: 10px;
+
+        border-bottom-left-radius: 0;
+
+    }
+
+
+
+    .form-v4-content .form-detail {
+
+        padding: 30px 20px;
+
+        width: auto;
+
+    }
+
+	.form-v4-content {
+
+	    margin: 60px 20px;
+
+	}
+
+	.form-v4-content .form-left {
+
+		order: 2;
+
+	}
+
+	.form-v4-content .form-left img {
+
+		border-bottom-left-radius: 10px;
+
+    	border-bottom-right-radius: 10px;
+
+    	border-top-left-radius: 0px;    
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+		font-size: 18px;
+
+		line-height: 26px;
+
+	}
+
+
+
+	.scrollable-menu {
+
+	    height: auto;
+
+	    max-height: 330px;
+
+	    overflow-x: hidden;
+
+	}
+	.footer_newsletter form {
+	    display: block;
+	}
+	.footer_newsletter input[type="submit"] {
+	    width: auto;
+	    padding: 10px 25px;
+	    border-radius: 30px;
+	}
+	.footer_newsletter input[type="email"] {
+		border-radius: 30px;
+		margin-bottom: 20px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+
+	.navbar .navbar-brand {
+
+		width: 85%;
+
+	}
+
+	.sticky-header .navbar .navbar-brand {
+
+		margin: 2px 0;
+
+		width: 85%;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		font-size: 22px;
+
+		margin: 0px 0 10px;
+
+	}
+
+	.analysis_malpratice_claim img {
+
+		width: 100%;
+
+	}
+
+	.about-left:before, .about-left:after {
+
+		display: none;
+
+	}
+
+	.about-left img {
+
+		-webkit-animation: none;
+
+    	animation: none;
+
+	}
+
+	.settlement_tort img {
+
+	    width: 100%;
+
+	}
+
+	.basic_claim {
+
+	    padding: 80px 15px 10px;
+
+	}
+
+	.best_opinion .about-right {
+
+	    padding-top: 0;
+
+	    padding-left: 0;
+
+	}
+
+	.title_ineffect h2 {
+
+	    padding: 0px 4%;
+
+	}
+
+	.half-overlay::before {
+
+		height: 45%;
+
+	}
+
+	.emo_ineffective .about-item ul {
+
+		margin-left: 15px;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+		font-size: 18px;
+
+		line-height: 24px; /*26px*/
+
+	}
+
+	.ineffective_section {
+
+		padding-left: 15px;
+
+		padding-right: 15px;
+
+	}
+
+	.top_notification.alert {
+
+		padding: 6px 12px;
+
+		font-size: 13px;
+
+	}
+
+	.we_helping .intro .intro-inner {
+
+	    padding: 5px 5px; 
+
+	}
+
+	.we_helping .intro h3 {
+
+		font-size: 12px;
+
+    	line-height: 14px;
+
+	}
+
+	.cta-text h1 {
+
+	    font-size: 36px;
+
+	}
+
+	.best_opinion.basic_claim {
+
+	    padding: 80px 15px 10px;
+
+	}
+
+	.image-box.style2 .details p {
+
+		font-size: 15px;
+
+		line-height: 22px;
+
+	}
+
+	#main-slider {
+
+		display: none;
+
+	}
+
+	#carousel-example-generic {
+
+	    display: block;
+
+	} 
+
+	
+
+}
+
+@media only screen and (max-width: 540px) {
+
+	.form-v4-content .form-detail .form-group {
+
+        flex-direction: column;
+
+        -o-flex-direction: column;
+
+        -ms-flex-direction: column;
+
+        -moz-flex-direction: column;
+
+        -webkit-flex-direction: column;
+
+        margin: 0;
+
+    }
+
+
+
+    .form-v4-content .form-detail .form-group .form-row.form-row-1 {
+
+        width: 100%;
+
+        padding: 0;
+
+    }
+
+    .tagline_servc .box .text div h2 {
+
+	    font-size: 17px;
+
+	    line-height: 22px;
+
+	}
+
+	.top_contact > li a {
+
+		padding-right: 10px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 10px;
+
+	}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+	.top_bar .container {
+
+	    padding: 0;
+
+	}
+
+	.navbar .navbar-brand, .sticky-header .navbar .navbar-brand {
+
+	    width: 82%;
+
+	}
+
+	.top_contact > li a {
+
+		padding-right: 5px;
+
+		font-size: 14px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 5px;
+
+	}
+
+	.top_contact {
+
+		padding: 2px 0 10px;
+
+	}
+
+	.top_uploadlogin {
+
+		float: none;
+
+        display: inline-flex;
+
+	}
+
+	.focus_country {
+
+		float: none;
+
+        margin-right: 10px;
+
+	}
+
+	.top_bar .col-sm-5 {
+
+		text-align: center;
+
+	}
+
+	.navbar-toggle {
+
+	    margin: 20px 15px;
+
+	}
+
+	.navbar {
+
+		min-height: 30px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar {
+
+		top: 15%;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		margin: 0px 0 5px;
+
+		font-size: 20px;
+
+	}
+
+	.footer_socialicons__inner h2 {
+
+		font-size: 25px;
+
+	}
+
+	.about_overview {
+
+	    padding: 30px 0;
+
+	}
+
+	.contact_form form {
+
+	    padding: 0px 0%;
+
+	}
+
+	.add_service_info h4 {
+
+		line-height: 30px;
+
+	}
+
+	.title_ineffect h2 {
+
+    	padding: 0px 1%; 
+
+    }
+
+    .tagline_servc .box {
+
+    	width: 80%;
+
+    }
+
+    .chronology_form_bg {
+
+    	padding: 42px 15px 30px;
+
+    }
+
+    .breadcrumb {
+
+    	margin-top: 5px;
+
+    	margin-bottom: 0;
+
+    }
+
+    .tagline_servc .box .text div h2 {
+
+    	font-size: 16px; /*18px*/
+
+    	line-height: 22px; /*28px*/
+
+    }
+
+    .chronology_form_bg h3 {
+
+    	font-size: 25px;
+
+    }
+
+    .knockout {
+
+    	font-size: 22px;
+
+    	line-height: 30px;
+
+    	margin-bottom: 10px;
+
+    }
+
+    .inner-cutout {
+
+	    padding: 25px 15px;
+
+	}
+
+	.hitech-area .single-services ul {
+
+		padding: 0px 5px;
+
+	}
+
+	.hipaa-area .single-services {
+
+		padding: 30px 10px;
+
+	}
+
+	.medicolegalfacts h4 {
+
+		line-height: 28px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in h2 {
+
+		font-size: 24px;
+
+		line-height: 34px;
+
+	}
+
+	.pi_damage_types .pi_damage_types_in {
+
+	    padding: 70px 10px 90px;
+
+	}
+
+	.pi_casesarise {
+
+	    padding: 50px 15px 10px;
+
+	}
+
+	.personalinjury_dealing h2 {
+
+		font-size: 22px;
+
+		line-height: 30px;
+
+	}
+
+	.hom_legalfacts_block img {
+
+		width: 100%;
+
+	}
+
+	.personalinjury_dealing .wc_deal_pic img {
+
+	    padding-top: 5px;
+
+	}
+
+	.importance_addservice img {
+
+		width: 100%;
+
+	}
+
+	.half-overlay::before {
+
+		height: 35%;
+
+	}
+
+	.about-item ul {
+
+		margin-bottom: 20px;
+
+	}
+
+	.cta-text h1 {
+
+	    font-size: 30px;
+
+	}
+
+	.home_about h4.panel-title {
+
+		line-height: 20px;
+
+	}
+
+	.hom_legalfacts_block img {
+
+	    width: auto;
+
+	}
+
+	.hom_medico_faq form input[type="submit"] {
+
+		font-size: 16px;
+
+	}
+
+	.we_helping .intro h3 {
+
+	    font-size: 20px;
+
+	    line-height: 26px;
+
+	    margin-top: 34px;
+
+	}
+
+	.we_helping .col-size {
+
+		width: 100%;
+
+		margin-bottom: 10px;
+
+	}
+
+	.we_helping .intro-first .image {
+
+	    order: inherit;
+
+	}
+
+	.hom_six_services .half.column, .hom_six_services .half.columns {
+
+		width: 50%;
+
+	}
+
+	.Home--services .Home--services--service:nth-child(3n) {
+
+	    border-right: 1px solid #fff;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 16px!important;
+
+	}
+
+	.tp-caption.custom_theme_big {
+
+		font-size: 35px!important;
+
+		top: 8%!important;
+
+	}
+
+	.text_whte_ctr .tp-caption.custom_theme_big {
+
+		top: 28%!important;
+
+	}
+
+	.arising_form .pb15 img {
+
+		width: 100%;
+
+	}
+
+	.register-right {
+
+		margin-right: 10px;
+
+    	margin-left: 5px;
+
+	}
+
+	.image-box.style2 figure {
+
+	    float: none; 
+
+	    width: 100%;
+
+	}
+
+	.image-box.style2 .details {
+
+	    padding: 20px 15px 25px 15px;
+
+	}
+
+	.image-box.style2 .details p {
+
+	    font-size: 16px;
+
+	    line-height: 24px;
+
+	    margin-bottom: 15px;
+
+	}
+
+	.image-box.style2 .details h4 {
+
+		font-size: 20px;
+
+	}
+
+	.image-box.style2 .details a {
+
+		font-size: 15px;
+
+	}
+
+}
+
+@media only screen and (max-width: 411px) {
+
+	.navbar-toggle {
+
+	    margin: 15px 10px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+	    margin: 0px 0 0px;
+
+	    font-size: 25px;
+
+	    line-height: 26px;
+
+	}
+
+	.navbar .navbar-brand, .sticky-header .navbar .navbar-brand {
+
+	    width: 81%;
+
+	}
+
+	.footer_socialicons__inner {
+
+	    padding: 30px 0px 65px;
+
+	}
+
+	.abt_service_blue_bg h3 {
+
+		line-height: 30px;
+
+	}
+
+	.top_bar .container {
+
+		padding: 0;
+
+	}
+
+	.top_bar .col-xs-12 {
+
+	    padding-left: 8px;
+
+	    padding-right: 8px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 5px;
+
+	}
+
+	.top_contact > li a {
+
+	    padding-right: 5px;
+
+	    font-size: 14px;
+
+	}
+
+	.breadcrumb {
+
+		margin-top: 5px;
+
+    	margin-bottom: 5px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		margin: 0px 0 0px;
+
+	    font-size: 20px;
+
+	    line-height: 24px;
+
+	}
+
+	.single_blog h3 {
+
+		line-height: 32px;
+
+	}
+
+	.jus_submit form {
+
+	    padding: 0px 1%;
+
+	}
+
+	.service_overview h3 {
+
+		line-height: 30px;
+
+	}
+
+	.medicolegalfacts h4 {
+
+	    line-height: 32px;
+
+	}
+
+	.pi_casesarise {
+
+	    padding: 10px 15px 10px;
+
+	}
+
+	.wc_bestpractices {
+
+	    padding: 20px 0 30px;
+
+	}
+
+	.wc_bestpractices .section-title {
+
+		line-height: 34px;
+
+	}
+
+	.request_line p span {
+
+	    font-size: 20px;
+
+	    line-height: 32px;
+
+	    font-weight: 500;
+
+	}
+
+	.service_breadcrumb.breadcrumb_wbtn .breadcrumb_bar {
+
+	    top: 18%;
+
+	}
+
+	.importance_addservice .section-title {
+
+		font-size: 1.8rem;
+
+		line-height: 36px;
+
+	}
+
+	.half-overlay::before {
+
+		height: 28%;
+
+	}
+
+	.ineffective_section h3 {
+
+		line-height: 26px;
+
+	}
+
+	.home_about h2 {
+
+		line-height: 36px;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 14px!important;
+
+	}
+
+	.tp-caption.custom_theme_big {
+
+		font-size: 30px!important;
+
+		top: 8%!important;
+
+	}
+
+	.text_whte_ctr .tp-caption.custom_theme_big {
+
+		top: 28%!important;
+
+	}
+
+	.submit_cse {
+
+		margin-bottom: 12%;
+
+	}
+
+}
+
+@media only screen and (max-width: 393px) {
+
+	.top_contact > li {
+
+	    margin-right: 5px;
+
+	}
+
+	.top_contact > li a {
+
+	    padding-right: 4px;
+
+	    font-size: 13px;
+
+	}
+
+	.footer_socialicons__inner h2 {
+
+	    font-size: 22px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		font-size: 16px;
+
+	}
+
+	.service_breadcrumb .breadcrumb li {
+
+	    font-size: 15px;
+
+	}
+
+	.title_ineffect h2 {
+
+		line-height: 36px;
+
+	}
+
+	.half-overlay::before {
+
+		height: 28%;
+
+	}
+
+	.about-item h2 {
+
+	    font-size: 26px; 
+
+	    line-height: 34px;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+	    font-size: 16px;
+
+	    line-height: 23px; /*24px*/
+
+	}
+
+	.ns_service_overview h4 {
+
+		line-height: 28px;
+
+	}
+
+	.ineffective_section h3 {
+
+		line-height: 26px;
+
+	}
+
+	.client-area {
+
+	    padding-top: 50px;
+
+	    padding-bottom: 50px;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+	    padding: 10px 5px;
+
+	}
+
+}
+
+@media only screen and (max-width: 375px) {
+
+	.social-icon {
+
+		width: 70px;
+
+    	height: 70px;
+
+    	font-size: 2rem;
+
+	}
+
+	.footer_socialicons__inner h2 {
+
+	    font-size: 22px;
+
+	}
+
+	.top_contact > li a {
+
+	    padding-right: 5px;
+
+	    font-size: 13px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 5px;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+	    font-size: 16px;
+
+	    line-height: 23px; /*24px*/
+
+	}
+
+	.title_ineffect h2 {
+
+		font-size: 25px;
+
+		line-height: 32px;
+
+	}
+
+	.chronology_form_split .form_btnmsg {
+
+		top: 28%;
+
+	}
+
+	.half-overlay::before {
+
+		height: 24%;
+
+	}
+
+	.section-title h2 {
+
+		font-size: 42px;
+
+    	line-height: 48px;
+
+	}
+
+	.s_home .Home--services .Home--services--service {
+
+		padding: 0.5em 0.4em;
+
+	}
+
+	.we_helping .intro h3 {
+
+		margin-top: 20px;
+
+	}
+
+	.Home--services .Home--services--service p {
+
+		font-size: 14px;
+
+		line-height: 22px;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 13.5px!important;
+
+	}
+
+	.tp-caption.custom_theme_big {
+
+		font-size: 24px!important;
+
+		top: 8%!important;
+
+	}
+
+	.text_whte_ctr .tp-caption.custom_theme_big {
+
+		top: 28%!important;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+		font-size: 16px;
+
+	}
+
+	.register-left img {
+
+		width: 100%;
+
+	}
+
+	.register-right {
+
+		margin-left: 8px;
+
+	}
+
+	.register-right .r_quote a {
+
+		padding: 12px 12px;
+
+	}
+
+}
+
+@media only screen and (max-width: 360px) {
+
+	.top_contact > li a {
+
+	    padding-right: 4px;
+
+	    font-size: 13px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 4px;
+
+	}
+
+	.top_bar .col-xs-12 {
+
+	    padding-left: 5px;
+
+	    padding-right: 5px;
+
+	}
+
+	.top_contact {
+
+	    padding: 2px 0 6px;
+
+	}
+
+	.pricing_details table thead th {
+
+		padding: 10px 10px;
+
+	}
+
+	.pricing_details table tbody td {
+
+	    padding: 10px 10px;
+
+	}
+
+	.navbar-toggle {
+
+	    margin: 11px 10px;
+
+	}
+
+	.half-overlay::before {
+
+		height: 24%;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+	    font-size: 15px;
+
+	    line-height: 22px;
+
+	}
+
+	.top_notification.alert {
+
+	    padding: 6px 8px;
+
+	    font-size: 13px;
+
+	}
+
+	.we_helping .intro h3 {
+
+	    font-size: 18px;
+
+	    line-height: 24px;
+
+	}
+
+	.hom_medico_faq .case_faq {
+
+	    padding: 0px 5px;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+		font-size: 15px;
+
+		padding: 10px 8px;
+
+	}
+
+	#modal-droprequest .modalr_quote a i {
+
+		padding-right: 3px;
+
+	}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+	.ftr_icn i {
+
+		margin-right: 10px;
+
+	}
+
+	.abt_contact p {
+
+	    font-size: 16px;
+
+	}
+
+	.abt_icn i {
+
+		margin-right: 9px;
+
+	}
+
+	.footer_socialicons__inner h2 {
+
+	    font-size: 19px;
+
+	}
+
+	footer .container {
+
+		padding: 0px 3px;
+
+	}
+
+	footer .col-md-3.col-sm-6.col-xs-12 {
+
+	    padding: 0px 8px;
+
+	}
+
+	.social-icon {
+
+	    width: 60px;
+
+	    height: 60px;
+
+	    font-size: 1.8rem;
+
+	}
+
+	.navbar .navbar-brand, .sticky-header .navbar .navbar-brand {
+
+	    width: 80%;
+
+	}
+
+	.navbar-toggle {
+
+	    margin: 8px 10px;
+
+	}
+
+	.top_contact > li {
+
+	    margin-right: 3px;
+
+	}
+
+	.top_contact > li a {
+
+	    padding-right: 3px;
+
+	    font-size: 11px;
+
+	}
+
+	.top_uploadlogin > li a {
+
+		padding: 6px 7px;
+
+	    margin: 0px 4px;
+
+	    font-size: 14px;
+
+	}
+
+	.medical_charts a {
+
+		padding: 8px 5px;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+	    font-size: 17px;
+
+	    line-height: 26px;
+
+	}
+
+	.service_breadcrumb .breadcrumb_bar h3 {
+
+		font-size: 14px;
+
+	}
+
+	.service_breadcrumb .breadcrumb li {
+
+	    font-size: 13px;
+
+	}
+
+	.tagline_servc .box .text div h2 {
+
+	    font-size: 15px;
+
+	    line-height: 22px;
+
+	}
+
+	.half-overlay::before {
+
+		height: 20%;
+
+	}
+
+	.circle_pic {
+
+		display: none;
+
+	}
+
+	.we_helping .intro h3 {
+
+	    font-size: 16px;
+
+	    margin-top: 5px;
+
+	}
+
+	.tp-caption.custom_theme_very_small {
+
+		font-size: 12px!important;
+
+	}
+
+	#modal-droprequest .modalr_quote a {
+
+		font-size: 13px;
+
+		padding: 10px 5px;
+
+	}
+
+	.register-right .r_quote a {
+
+		padding: 12px 10px;
+
+	}
+
+	.nw_uploadurcase .ownjus_bg {
+
+	    padding: 5% 5% 7%;
+
+	}
+
+	#carousel-example-generic h3 {
+
+		font-size: 22px;
+
+	}
+
+}

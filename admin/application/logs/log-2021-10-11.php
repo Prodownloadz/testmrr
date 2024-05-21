@@ -1,0 +1,13 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-11 12:27:33 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2021-10-11 12:56:53 --> Severity: Notice --> Undefined index: shared_link_already_exists /home3/indiafir/public_html/medicalrecordsreform/admin/application/controllers/Cases.php 170
+ERROR - 2021-10-11 13:19:33 --> Severity: Notice --> Undefined index: shared_link_already_exists /home3/indiafir/public_html/medicalrecordsreform/admin/application/controllers/Cases.php 170
+ERROR - 2021-10-11 17:04:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php:269) /home3/indiafir/public_html/medicalrecordsreform/admin/system/core/Common.php 564
+ERROR - 2021-10-11 17:04:21 --> Severity: Error --> Allowed memory size of 268435456 bytes exhausted (tried to allocate 218629824 bytes) /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php 269
+ERROR - 2021-10-11 17:05:50 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php:269) /home3/indiafir/public_html/medicalrecordsreform/admin/system/core/Common.php 564
+ERROR - 2021-10-11 17:05:50 --> Severity: Error --> Allowed memory size of 268435456 bytes exhausted (tried to allocate 218629824 bytes) /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php 269
+ERROR - 2021-10-11 17:07:04 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php:269) /home3/indiafir/public_html/medicalrecordsreform/admin/system/core/Common.php 564
+ERROR - 2021-10-11 17:07:04 --> Severity: Error --> Allowed memory size of 268435456 bytes exhausted (tried to allocate 218629824 bytes) /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php 269
+ERROR - 2021-10-11 17:31:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php:269) /home3/indiafir/public_html/medicalrecordsreform/admin/system/core/Common.php 564
+ERROR - 2021-10-11 17:31:01 --> Severity: Error --> Allowed memory size of 268435456 bytes exhausted (tried to allocate 218629824 bytes) /home3/indiafir/public_html/medicalrecordsreform/admin/system/libraries/Zip.php 269

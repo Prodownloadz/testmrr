@@ -1,0 +1,5 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-18 14:03:47 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2021-03-18 14:35:24 --> Query error: Column 'customer_name' cannot be null - Invalid query: INSERT INTO `web_customer` (`customer_name`, `customer_mobile`, `customer_address`, `eb_number`, `bank_name`, `ifsc_code`, `account_number`, `salesperson_id`, `idproof`, `qrcode`, `status`, `date`, `update_date`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Enable', '2021-03-18', '2021-03-18')
+ERROR - 2021-03-18 14:35:33 --> Query error: Column 'customer_name' cannot be null - Invalid query: INSERT INTO `web_customer` (`customer_name`, `customer_mobile`, `customer_address`, `eb_number`, `bank_name`, `ifsc_code`, `account_number`, `salesperson_id`, `idproof`, `qrcode`, `status`, `date`, `update_date`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Enable', '2021-03-18', '2021-03-18')

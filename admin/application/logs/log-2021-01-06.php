@@ -1,0 +1,41 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-06 04:14:40 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:14:40 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:14:40 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:20:26 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:20:26 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:22:07 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:22:07 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:22:07 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:22:59 --> Query error: Column 'qrcode' cannot be null - Invalid query: INSERT INTO `web_customer` (`customer_name`, `customer_mobile`, `customer_address`, `eb_number`, `bank_name`, `ifsc_code`, `account_number`, `salesperson_id`, `idproof`, `qrcode`, `status`, `date`, `update_date`) VALUES ('devis', '9087394547', 'sivakasi', '963258741', 'IOB', 'IOB001', '98756321456325', '1', 'account-image-placeholder_1609906979.png', NULL, 'Enable', '2021-01-06', '2021-01-06')
+ERROR - 2021-01-06 04:23:13 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:23:14 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:23:14 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:23:48 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:23:49 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:23:49 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:40:02 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:40:02 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:40:03 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:40:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-01-06 04:40:04 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 04:40:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-01-06 04:40:04 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 04:40:04 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:14 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:14 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:14 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 05:22:18 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 05:22:19 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:19 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-01-06 05:22:24 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-01-06 05:22:25 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:25 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 05:22:54 --> 404 Page Not Found: Assets/css
+ERROR - 2021-01-06 05:22:54 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:54 --> 404 Page Not Found: Assets/js
+ERROR - 2021-01-06 05:22:54 --> 404 Page Not Found: Assets/plugins

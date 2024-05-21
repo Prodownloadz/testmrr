@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-26 01:17:28 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 01:17:32 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 03:16:54 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 03:16:57 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 04:56:31 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 04:56:34 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 06:37:00 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 06:37:04 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 08:18:20 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 08:18:24 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 10:01:26 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 10:01:29 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 11:44:44 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 11:44:47 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 13:23:39 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 13:23:42 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 15:01:23 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 15:01:26 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 16:39:52 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 16:39:55 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 18:18:23 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 18:18:26 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 19:57:39 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 19:57:43 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 21:37:19 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 21:37:22 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 23:18:10 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2022-06-26 23:18:13 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.

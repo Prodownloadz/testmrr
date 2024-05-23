@@ -404,7 +404,7 @@
 
                             <div class="focus_country">
 
-                                <img src="img/us_flag.jpg" />
+                                <img src="img/us_flag.jpg" alt="USA Flag"  />
 
                             </div>
 
@@ -444,7 +444,7 @@
 
 
 
-                                <img class="navbar-brand" src="img/logo.png" alt="MRR Logo">
+                                <img class="navbar-brand" src="img/logo.png" alt="Medical Records Reform LLC Logo">
 
                             </a>
 

@@ -10,11 +10,11 @@
 
         <title>Medical Records Reform</title>
 
-        <meta name="description" content="">
+        <meta name="description" content="Medical Records Reform LLC | Submit your case  and get expert review.">
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
+        <link rel="canonical" href="https://medicalrecordsreform.com/contact-us.html" />
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
@@ -398,7 +398,7 @@
 
                             <div class="focus_country">
 
-                                <img src="img/us_flag.jpg" />
+                                <img src="img/us_flag.jpg" alt="USA Flag"  />
 
                             </div>
 
@@ -438,7 +438,7 @@
 
 
 
-                                <img class="navbar-brand" src="img/logo.png" alt="MRR Logo">
+                                <img class="navbar-brand" src="img/logo.png" alt="Medical Records Reform LLC Logo">
 
                             </a>
 

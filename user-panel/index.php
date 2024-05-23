@@ -60,6 +60,11 @@ include("include/topscript.php");
 
 ?>
 
+<head>
+  <link rel="canonical" href="https://www.medicalrecordsreform.com/contact-us.html" />
+<meta name="description" content="Manage your medical records and easily access your reviewed files with meta data.">
+</head>
+
 <body>
 
     <div class="container-fluid login-wapper">

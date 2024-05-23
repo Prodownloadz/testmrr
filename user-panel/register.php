@@ -152,6 +152,13 @@ if (isset($_POST['register']) && $_POST['g-recaptcha-response']) {
 }
 include("include/topscript.php");
 ?>
+
+<head>
+<link rel="canonical" href="https://medicalrecordsreform.com/contact-us.html" />
+
+<meta name="description" content="Register for a free account on Medical Records Reform LLC for managing your review records and status with more security.">
+</head>
+
 <style type="text/css">
     body {
         overflow: hidden;

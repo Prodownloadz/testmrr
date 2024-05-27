@@ -11,7 +11,7 @@
                 <div class="col-lg-7">
                     <div class="containers left-con">
                         <div class="logo-header">
-                            <img src="./image/logo.png">
+                            <img src="./image/logo.png" alt="MRR LLC Logo" loading="lazy" decoding="async">
                         </div>
                         <div class="form-container">
                             <div class="form-login">
@@ -41,7 +41,7 @@
                 <div class="col-lg-5">
                     <div class="containers right-con">
                         <div class="img-holder">
-                            <img src="./image/right-image.jpg" width="100%">
+                            <img src="./image/right-image.jpg" width="100%" alt="Born Baby" loading="lazy" decoding="async">
                         </div>
                     </div>
                 </div>

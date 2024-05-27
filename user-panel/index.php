@@ -81,7 +81,7 @@ include("include/topscript.php");
 
                             <div class="logo-header">
 
-                                <img src="./image/logo.png">
+                                <img src="./image/logo.png" alt="MRR LLC Logo" loading="lazy" decoding="async">
 
                             </div>
 
@@ -155,7 +155,7 @@ include("include/topscript.php");
 
                             <div class="img-holder">
 
-                                <img src="./image/right-image1.jpg" width="100%">
+                                <img src="./image/right-image1.jpg" width="100%" alt="Gavel" loading="lazy" decoding="async">
 
                             </div>
 

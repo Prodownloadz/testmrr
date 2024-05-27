@@ -1,7 +1,7 @@
 <div class="col-lg-12 top-header">
     <div class="row">
         <div class="col-lg-3 logo-holder-top">
-            <img src="./image/logo.png">
+            <img src="./image/logo.png" alt="MRR LLC Logo" loading="lazy" decoding="async">
         </div>
         <div class="col-lg-9">
             <div class="top-menu">

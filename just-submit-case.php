@@ -438,7 +438,8 @@
 
 
 
-                                <img class="navbar-brand" src="img/logo.png" alt="Medical Records Reform LLC Logo">
+                                <img class="navbar-brand" src="img/logo.png" 						width="500"
+									height="80" alt="Medical Records Reform LLC Logo">
 
                             </a>
 

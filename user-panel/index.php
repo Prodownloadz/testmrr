@@ -61,7 +61,7 @@ include("include/topscript.php");
 ?>
 
 <head>
-  <link rel="canonical" href="https://www.medicalrecordsreform.com/contact-us.html" />
+  <link rel="canonical" href="https://www.medicalrecordsreform.com/user-panel/index.html" />
 <meta name="description" content="Manage your medical records and easily access your reviewed files with meta data.">
 </head>
 

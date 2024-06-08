@@ -14,7 +14,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="canonical" href="https://medicalrecordsreform.com/contact-us.html" />
+        <link rel="canonical" href="https://medicalrecordsreform.com/just-submit-case.html" />
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 

@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/pytndcmy/public_html
+    - export DEPLOYPATH=/home4/pytndcmy/public_html
     - /bin/cp -r * $DEPLOYPATH/

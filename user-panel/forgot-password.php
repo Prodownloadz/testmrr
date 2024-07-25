@@ -1,6 +1,7 @@
 <?php include("include/topscript.php"); ?>
 <head>
-<link rel="canonical" href="https://medicalrecordsreform.com/contact-us.html" />
+<link rel="canonical" href="https://medicalrecordsreform.com/user-panel/forgot-
+password.php" />
 
 <meta name="description" content="Reset your password and regain access to your Medical Records Reform LLC's user panel.">
 </head>
